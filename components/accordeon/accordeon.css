@@ -1,0 +1,12 @@
+.accordeon li{
+	padding: 10px;
+	background: #715959;
+	list-style: none;
+	border: 1px solid #000;
+}
+.accordeon .child{
+	display: none;
+}
+.accordeon .child.open{
+	display: block;
+}

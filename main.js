@@ -1,0 +1,1 @@
+import Accordeon from './components/accordeon/accordeon.jsx';
